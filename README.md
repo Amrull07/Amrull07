@@ -40,15 +40,15 @@ Saya memiliki pengalaman dengan teknologi berikut:
 
 ---
 
-## 🏅 Sertifikasi
+## 🏅 Sertifikat
 
 <div align="center">
 
 ##### Sertifikat BNSP
 
-![Amrull07](img/sertifikat.jpg){width="350"} </div>
+<img src="img/sertifikat.jpg" alt="Amrull07 Sertifikat BNSP" width="300" />
 
----
+</div>
 
 ## 📊 Statistik GitHub
 
